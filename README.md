@@ -7,6 +7,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+---
+
+## 📌 Footer del Laboratorio
+
+Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá:
+
+- **Nombre:** Manuel Campos
+- **Correo:** manuel.campos1@utp.ac.pa
+- **Curso:** Ingeniería Web
+- **Instructor del Laboratorio:** Irina Fong  
+
+### 📅 Fecha de Ejecución del Laboratorio
+- 26 de septiembre de 2025
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
