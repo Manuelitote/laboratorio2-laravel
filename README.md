@@ -58,8 +58,7 @@ Se pudieron visualizar correctamente las siguientes pantallas:
 - Vista del panel principal después de autenticarse. 
 - footer agregado al final.
 
-Para documentar visualmente los resultados, se recomienda incluir capturas de pantalla de cada una de estas vistas dentro de una carpeta llamada `/screenshots` en el repositorio y enlazarlas dentro de este apartado.  
-
+Para documentar visualmente los resultados, se incluyeron capturas de pantalla de cada una de estas vistas dentro de una carpeta llamada `docs/screenshots` en el repositorio.
 
 ## 4. Base de datos (.env, migraciones, backup)
 En el archivo `.env` se configuró la conexión a MySQL con los siguientes valores:  
@@ -97,7 +96,7 @@ El servicio de MySQL en XAMPP no iniciaba debido a conflictos en la carpeta `mys
 La solución fue respaldar la carpeta, limpiarla y permitir que XAMPP regenerara los archivos necesarios.  
 
 Hubo dudas al momento de ejecutar el servidor de Laravel y el compilador de Vite.  
-La solución fue abrir dos terminales: una para `npm run dev` y otra para `php artisan serve`.  
+La solución fue abrir dos ventanas de las terminal del cmd de windows y en cada uno correr cada cosa: una para `npm run dev` y otra para `php artisan serve`.  
 
 ---
 
