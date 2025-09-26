@@ -76,5 +76,15 @@
             @yield('content')
         </main>
     </div>
+
+    <footer class="bg-light text-center py-3 mt-4" style="border-top:1px solid #e9ecef;">
+  <div class="container">
+    <small>
+      Este laboratorio ha sido desarrollado por el estudiante de la Universidad Tecnológica de Panamá. 
+     Nombre: Manuel Campos · Correo: manuel.campos1@utp.ac.pa · Curso: Ingeniería Web · Instructor: Ing. Irina Fong · Fecha de ejecución: 09/26/2025
+    </small>
+  </div>
+</footer>
+
 </body>
 </html>
